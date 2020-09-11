@@ -1,0 +1,4 @@
+tkinter
+requests
+bs4
+webbrowser
